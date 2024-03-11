@@ -1,0 +1,15 @@
+{
+  "name": "zenn-content",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naoto Ikuno <moon_in_france@yahoo.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.153"
+  }
+}
