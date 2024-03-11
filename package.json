@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "preview": "zenn preview",
+    "new-article": "zenn new:article",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
