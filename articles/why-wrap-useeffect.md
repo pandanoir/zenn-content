@@ -1,5 +1,5 @@
 ---
-title: "なぜ document.title = 'title' は useEffect でラップする必要があるのか"
+title: "useEffectはなぜ使う必要があるのか? document.title = 'title' をラップする理由"
 emoji: "⛩️"
 type: "tech"
 topics:
